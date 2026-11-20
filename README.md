@@ -39,12 +39,12 @@ A curated list of awesome DataOps tools.
 
 *Tools related to data cataloging.*
 
-* [DataHub](https://github.com/linkedin/datahub) ⭐ 13,004 | 🐛 1,468 | 🌐 Python | 📅 2026-11-19 - LinkedIn's generalized metadata search & discovery tool.
-* [CKAN](https://github.com/ckan/ckan) ⭐ 5,160 | 🐛 868 | 🌐 Python | 📅 2026-11-18 - Open-source DMS (data management system) for powering data hubs and data portals.
-* [OpenLineage](https://github.com/OpenLineage/openlineage) ⭐ 2,772 | 🐛 419 | 🌐 Java | 📅 2026-11-19 - Open standard for metadata and lineage collection.
-* [Marquez](https://github.com/MarquezProject/marquez) ⭐ 2,309 | 🐛 257 | 🌐 Java | 📅 2026-11-11 - Service for the collection, aggregation, and visualization of a data ecosystem's metadata.
+* [DataHub](https://github.com/linkedin/datahub) ⭐ 13,007 | 🐛 1,477 | 🌐 Python | 📅 2026-11-20 - LinkedIn's generalized metadata search & discovery tool.
+* [CKAN](https://github.com/ckan/ckan) ⭐ 5,161 | 🐛 868 | 🌐 Python | 📅 2026-11-20 - Open-source DMS (data management system) for powering data hubs and data portals.
+* [OpenLineage](https://github.com/OpenLineage/openlineage) ⭐ 2,773 | 🐛 417 | 🌐 Java | 📅 2026-11-20 - Open standard for metadata and lineage collection.
+* [Marquez](https://github.com/MarquezProject/marquez) ⭐ 2,310 | 🐛 257 | 🌐 Java | 📅 2026-11-20 - Service for the collection, aggregation, and visualization of a data ecosystem's metadata.
 * [Metacat](https://github.com/Netflix/metacat) ⭐ 1,690 | 🐛 60 | 🌐 Java | 📅 2026-11-19 - Unified metadata exploration API service for Hive, RDS, Teradata, Redshift, S3 and Cassandra.
-* [Magda](https://github.com/magda-io/magda) ⭐ 608 | 🐛 406 | 🌐 JavaScript | 📅 2026-11-19 - A federated, open-source data catalog for all your big data and small data.
+* [Magda](https://github.com/magda-io/magda) ⭐ 608 | 🐛 408 | 🌐 JavaScript | 📅 2026-11-20 - A federated, open-source data catalog for all your big data and small data.
 * [Amundsen](https://www.amundsen.io/) - Data discovery and metadata engine for improving the productivity when interacting with data.
 * [Apache Atlas](https://atlas.apache.org) - Provides open metadata management and governance capabilities to build a data catalog.
 * [OpenMetadata](https://open-metadata.org/) - A Single place to discover, collaborate and get your data right.
@@ -54,7 +54,7 @@ A curated list of awesome DataOps tools.
 
 *Tools for performing data exploration.*
 
-* [Marimo](https://github.com/marimo-team/marimo) ⭐ 23,633 | 🐛 607 | 🌐 Python | 📅 2026-11-19 - A reactive Python notebook that's reproducible, git-friendly, and deployable as scripts or apps.
+* [Marimo](https://github.com/marimo-team/marimo) ⭐ 23,653 | 🐛 598 | 🌐 Python | 📅 2026-11-20 - A reactive Python notebook that's reproducible, git-friendly, and deployable as scripts or apps.
 * [Jupytext](https://github.com/mwouts/jupytext) ⭐ 7,281 | 🐛 159 | 🌐 Python | 📅 2026-11-18 - Jupyter Notebooks as Markdown Documents, Julia, Python or R scripts.
 * [OneQuery](https://github.com/wordbricks/onequery) ⭐ 17 | 🐛 5 | 🌐 TypeScript | 📅 2026-07-30 - Self-hosted gateway for safe, auditable queries for agents across approved data sources.
 * [Apache Zeppelin](https://zeppelin.apache.org/) - Enables data-driven, interactive data analytics and collaborative documents.
@@ -66,13 +66,13 @@ A curated list of awesome DataOps tools.
 
 *Tools for performing data ingestion.*
 
-* [Apache Kafka](https://github.com/apache/kafka) ⭐ 34,243 | 🐛 728 | 🌐 Java | 📅 2026-11-19 - Open-source distributed event streaming platform used by thousands of companies.
-* [Apache Pulsar](https://github.com/apache/pulsar) ⭐ 15,367 | 🐛 508 | 🌐 Java | 📅 2026-11-19 - Distributed pub-sub messaging platform with a flexible messaging model and intuitive API.
-* [Fluentd](https://github.com/fluent/fluentd) ⭐ 13,622 | 🐛 127 | 🌐 Ruby | 📅 2026-11-19 - Collects events from various data sources and writes them to files.
-* [ingestr](https://github.com/bruin-data/ingestr) ⭐ 4,049 | 🐛 39 | 🌐 Go | 📅 2026-11-19 - A CLI tool to copy data between any databases with a single command.
+* [Apache Kafka](https://github.com/apache/kafka) ⭐ 34,244 | 🐛 729 | 🌐 Java | 📅 2026-11-20 - Open-source distributed event streaming platform used by thousands of companies.
+* [Apache Pulsar](https://github.com/apache/pulsar) ⭐ 15,367 | 🐛 502 | 🌐 Java | 📅 2026-11-20 - Distributed pub-sub messaging platform with a flexible messaging model and intuitive API.
+* [Fluentd](https://github.com/fluent/fluentd) ⭐ 13,622 | 🐛 137 | 🌐 Ruby | 📅 2026-11-19 - Collects events from various data sources and writes them to files.
+* [ingestr](https://github.com/bruin-data/ingestr) ⭐ 4,049 | 🐛 40 | 🌐 Go | 📅 2026-11-20 - A CLI tool to copy data between any databases with a single command.
 * [Apache Gobblin](https://github.com/apache/gobblin) ⭐ 2,270 | 🐛 142 | 🌐 Java | 📅 2026-10-15 - A framework that simplifies common aspects of big data such as data ingestion.
-* [OLake](https://github.com/datazip-inc/olake) ⭐ 2,035 | 🐛 205 | 🌐 Go | 📅 2026-11-19 - Open-source replication of Postgres, MySQL, MongoDB, Kafka and more into Apache Iceberg.
-* [Pravega](https://github.com/pravega/pravega) ⭐ 1,998 | 🐛 246 | 🌐 Java | 📅 2025-03-02 - An open source distributed storage service implementing Streams.
+* [OLake](https://github.com/datazip-inc/olake) ⭐ 2,127 | 🐛 205 | 🌐 Go | 📅 2026-11-20 - Open-source replication of Postgres, MySQL, MongoDB, Kafka and more into Apache Iceberg.
+* [Pravega](https://github.com/pravega/pravega) ⭐ 1,997 | 🐛 246 | 🌐 Java | 📅 2025-03-02 - An open source distributed storage service implementing Streams.
 * [Embulk](https://github.com/embulk/embulk) ⭐ 1,783 | 🐛 167 | 🌐 Java | 📅 2026-10-08 - A parallel bulk data loader that helps data transfer between various storages.
 * [Nakadi](https://github.com/zalando/nakadi) ⚠️ Archived - A distributed event bus that implements a RESTful API abstraction on top of Kafka-like queues.
 * [Amazon Kinesis](https://aws.amazon.com/kinesis/) - Easily collect, process, and analyze video and data streams in real time.
@@ -85,11 +85,11 @@ A curated list of awesome DataOps tools.
 
 *Tools related to data workflow/pipeline.*
 
-* [Apache Airflow](https://github.com/apache/airflow) ⭐ 47,561 | 🐛 1,937 | 🌐 Python | 📅 2026-11-19 - A platform to programmatically author, schedule, and monitor workflows.
-* [Luigi](https://github.com/spotify/luigi) ⭐ 18,792 | 🐛 196 | 🌐 Python | 📅 2026-10-14 - Python module that helps you build complex pipelines of batch jobs.
-* [Dagster](https://github.com/dagster-io/dagster) ⭐ 16,444 | 🐛 2,632 | 🌐 Python | 📅 2026-11-19 - An orchestration platform for the development, production, and observation of data assets.
+* [Apache Airflow](https://github.com/apache/airflow) ⭐ 47,577 | 🐛 1,951 | 🌐 Python | 📅 2026-11-20 - A platform to programmatically author, schedule, and monitor workflows.
+* [Luigi](https://github.com/spotify/luigi) ⭐ 18,792 | 🐛 195 | 🌐 Python | 📅 2026-11-20 - Python module that helps you build complex pipelines of batch jobs.
+* [Dagster](https://github.com/dagster-io/dagster) ⭐ 16,448 | 🐛 2,636 | 🌐 Python | 📅 2026-11-20 - An orchestration platform for the development, production, and observation of data assets.
 * [Azkaban](https://github.com/azkaban/azkaban) ⭐ 4,509 | 🐛 802 | 🌐 Java | 📅 2024-07-03 - Batch workflow job scheduler created at LinkedIn to run Hadoop jobs.
-* [Bruin](https://github.com/bruin-data/bruin) ⭐ 1,817 | 🐛 74 | 🌐 Go | 📅 2026-11-19 - A data pipeline framework combining ingestion, SQL and Python transformations, and quality checks.
+* [Bruin](https://github.com/bruin-data/bruin) ⭐ 1,816 | 🐛 74 | 🌐 Go | 📅 2026-11-20 - A data pipeline framework combining ingestion, SQL and Python transformations, and quality checks.
 * [Apache Oozie](https://github.com/apache/oozie) ⚠️ Archived - An extensible, scalable and reliable system to manage complex Hadoop workloads.
 * [Prefect](https://docs.prefect.io/) - A workflow management system, designed for modern infrastructure.
 
@@ -97,12 +97,12 @@ A curated list of awesome DataOps tools.
 
 *Tools related to data processing (batch and stream).*
 
-* [Apache Spark](https://github.com/apache/spark) ⭐ 44,588 | 🐛 864 | 🌐 Scala | 📅 2026-11-19 - A unified analytics engine for large-scale data processing.
-* [Apache Flink](https://github.com/apache/flink) ⭐ 26,482 | 🐛 443 | 🌐 Java | 📅 2026-11-19 - An open source stream processing framework with powerful capabilities.
-* [Apache Beam](https://github.com/apache/beam) ⭐ 8,722 | 🐛 3,703 | 🌐 Java | 📅 2026-11-19 - A unified model for defining both batch and streaming data-parallel processing pipelines.
+* [Apache Spark](https://github.com/apache/spark) ⭐ 44,592 | 🐛 857 | 🌐 Scala | 📅 2026-11-20 - A unified analytics engine for large-scale data processing.
+* [Apache Flink](https://github.com/apache/flink) ⭐ 26,486 | 🐛 447 | 🌐 Java | 📅 2026-11-20 - An open source stream processing framework with powerful capabilities.
+* [Apache Beam](https://github.com/apache/beam) ⭐ 8,722 | 🐛 3,742 | 🌐 Java | 📅 2026-11-20 - A unified model for defining both batch and streaming data-parallel processing pipelines.
 * [Faust](https://github.com/robinhood/faust) ⭐ 6,822 | 🐛 279 | 🌐 Python | 📅 2024-07-27 - A stream processing library, porting the ideas from Kafka Streams to Python.
-* [Apache Storm](https://github.com/apache/storm) ⭐ 6,701 | 🐛 44 | 🌐 Java | 📅 2026-11-18 - An open source distributed realtime computation system.
-* [Apache Nifi](https://github.com/apache/nifi) ⭐ 6,329 | 🐛 57 | 🌐 Java | 📅 2026-11-19 - An easy to use, powerful, and reliable system to process and distribute data.
+* [Apache Storm](https://github.com/apache/storm) ⭐ 6,701 | 🐛 47 | 🌐 Java | 📅 2026-11-18 - An open source distributed realtime computation system.
+* [Apache Nifi](https://github.com/apache/nifi) ⭐ 6,330 | 🐛 56 | 🌐 Java | 📅 2026-11-20 - An easy to use, powerful, and reliable system to process and distribute data.
 * [Apache Samza](https://github.com/apache/samza) ⭐ 844 | 🐛 44 | 🌐 Java | 📅 2026-09-01 - A distributed stream processing framework which uses Apache Kafka and Hadoop YARN.
 * [Apache Tez](https://github.com/apache/tez) ⭐ 523 | 🐛 76 | 🌐 Java | 📅 2026-11-10 - A generic data-processing pipeline engine envisioned as a low-level engine.
 * [Apache Hadoop MapReduce](https://hadoop.apache.org/docs/current/hadoop-mapreduce-client/hadoop-mapreduce-client-core/MapReduceTutorial.html) - A framework for writing applications which process vast amounts of data.
@@ -116,7 +116,7 @@ A curated list of awesome DataOps tools.
 * [Deequ](https://github.com/awslabs/deequ) ⭐ 3,660 | 🐛 66 | 🌐 Scala | 📅 2026-10-20 - A library built on top of Apache Spark for measuring data quality in large datasets.
 * [Cerberus](https://github.com/pyeve/cerberus) ⭐ 3,282 | 🐛 31 | 🌐 Python | 📅 2026-10-01 - Lightweight, extensible data validation library for Python.
 * [DataProfiler](https://github.com/capitalone/DataProfiler) ⭐ 1,600 | 🐛 85 | 🌐 Python | 📅 2026-11-17 - A Python library designed to make data analysis, monitoring, and sensitive data detection easy.
-* [DataOps TestGen](https://github.com/DataKitchen/dataops-testgen) ⭐ 81 | 🐛 3 | 🌐 Python | 📅 2026-11-13 - Open-source data quality tool that profiles tables, generates tests, and monitors data.
+* [DataOps TestGen](https://github.com/DataKitchen/dataops-testgen) ⭐ 81 | 🐛 3 | 🌐 Python | 📅 2026-11-20 - Open-source data quality tool that profiles tables, generates tests, and monitors data.
 * [SodaSQL](https://github.com/sodadata/soda-sql) ⚠️ Archived - Data profiling, testing, and monitoring for SQL accessible data.
 * [Great Expectations](https://greatexpectations.io) - A Python data validation framework that allows to test your data against datasets.
 * [JSON Schema](https://json-schema.org/) - A vocabulary that allows you to annotate and validate JSON documents.
@@ -125,11 +125,11 @@ A curated list of awesome DataOps tools.
 
 *Tools related to data serialization.*
 
-* [ProtoBuf](https://github.com/protocolbuffers/protobuf) ⭐ 72,187 | 🐛 397 | 🌐 C++ | 📅 2026-11-19 - Language-neutral, platform-neutral, extensible mechanism for serializing structured data.
+* [ProtoBuf](https://github.com/protocolbuffers/protobuf) ⭐ 72,188 | 🐛 391 | 🌐 C++ | 📅 2026-11-20 - Language-neutral, platform-neutral, extensible mechanism for serializing structured data.
 * [Kryo](https://github.com/EsotericSoftware/kryo) ⭐ 6,551 | 🐛 6 | 🌐 HTML | 📅 2026-11-16 - A fast and efficient binary object graph serialization framework for Java.
-* [Apache Avro](https://github.com/apache/avro) ⭐ 3,313 | 🐛 230 | 🌐 Java | 📅 2026-11-15 - A data serialization system which is compact, fast and provides rich data structures.
-* [Apache Parquet](https://github.com/apache/parquet-mr) ⭐ 3,092 | 🐛 684 | 🌐 Java | 📅 2026-11-18 - A columnar storage format which provides efficient storage and encoding of data.
-* [Apache ORC](https://github.com/apache/orc) ⭐ 773 | 🐛 28 | 🌐 Java | 📅 2026-11-09 - A self-describing type-aware columnar file format designed for Hadoop workloads.
+* [Apache Avro](https://github.com/apache/avro) ⭐ 3,314 | 🐛 230 | 🌐 Java | 📅 2026-11-15 - A data serialization system which is compact, fast and provides rich data structures.
+* [Apache Parquet](https://github.com/apache/parquet-mr) ⭐ 3,092 | 🐛 682 | 🌐 Java | 📅 2026-11-20 - A columnar storage format which provides efficient storage and encoding of data.
+* [Apache ORC](https://github.com/apache/orc) ⭐ 773 | 🐛 29 | 🌐 Java | 📅 2026-11-09 - A self-describing type-aware columnar file format designed for Hadoop workloads.
 
 ### Data Compression
 
@@ -138,18 +138,18 @@ A curated list of awesome DataOps tools.
 
 ### Data Table Format
 
-* [Apache Iceberg](https://github.com/apache/iceberg) ⭐ 9,444 | 🐛 941 | 🌐 Java | 📅 2026-11-19 - Open table format for huge analytic datasets.
-* [Delta Lake](https://github.com/delta-io/delta) ⭐ 9,083 | 🐛 1,057 | 🌐 Scala | 📅 2026-11-19 - An open source project that enables building a Lakehouse architecture on top of data lakes.
-* [Apache Hudi](https://github.com/apache/hudi) ⭐ 6,385 | 🐛 3,208 | 🌐 Java | 📅 2026-11-19 - Manages the storage of large analytical datasets on DFS.
+* [Apache Iceberg](https://github.com/apache/iceberg) ⭐ 9,445 | 🐛 948 | 🌐 Java | 📅 2026-11-20 - Open table format for huge analytic datasets.
+* [Delta Lake](https://github.com/delta-io/delta) ⭐ 9,083 | 🐛 1,060 | 🌐 Scala | 📅 2026-11-20 - An open source project that enables building a Lakehouse architecture on top of data lakes.
+* [Apache Hudi](https://github.com/apache/hudi) ⭐ 6,386 | 🐛 3,215 | 🌐 Java | 📅 2026-11-20 - Manages the storage of large analytical datasets on DFS.
 
 ## Data Visualization
 
 *Tools for performing data visualization (DataViz).*
 
-* [Apache Superset](https://github.com/apache/superset) ⭐ 75,582 | 🐛 655 | 🌐 Python | 📅 2026-11-19 - A modern data exploration and data visualization platform.
-* [Dash](https://github.com/plotly/dash) ⭐ 24,498 | 🐛 424 | 🌐 Python | 📅 2026-11-19 - Analytical Web Apps for Python, R, Julia, and Jupyter.
+* [Apache Superset](https://github.com/apache/superset) ⭐ 75,592 | 🐛 622 | 🌐 Python | 📅 2026-11-20 - A modern data exploration and data visualization platform.
+* [Dash](https://github.com/plotly/dash) ⭐ 24,500 | 🐛 427 | 🌐 Python | 📅 2026-11-20 - Analytical Web Apps for Python, R, Julia, and Jupyter.
 * [Lux](https://github.com/lux-org/lux) ⭐ 5,378 | 🐛 89 | 🌐 Python | 📅 2024-03-20 - Fast and easy data exploration by automating the visualization and data analysis process.
-* [HUE](https://github.com/cloudera/hue) ⭐ 1,409 | 🐛 1 | 🌐 JavaScript | 📅 2026-11-19 - A mature SQL Assistant for querying Databases & Data Warehouses.
+* [HUE](https://github.com/cloudera/hue) ⭐ 1,409 | 🐛 1 | 🌐 JavaScript | 📅 2026-11-20 - A mature SQL Assistant for querying Databases & Data Warehouses.
 * [Count](https://count.co) - SQL/drag-and-drop querying and visualisation tool based on notebooks.
 * [Data Studio](https://datastudio.google.com) - Reporting solution for power users who want to go beyond the data and dashboards of GA.
 * [Metabase](https://www.metabase.com/) - The simplest, fastest way to get business intelligence and analytics to everyone.
@@ -160,7 +160,7 @@ A curated list of awesome DataOps tools.
 
 *Tools related to storing data in data warehouses (DW).*
 
-* [Apache Hive](https://github.com/apache/hive) ⭐ 6,039 | 🐛 139 | 🌐 Java | 📅 2026-11-19 - Facilitates reading, writing, and managing large datasets residing in distributed storage.
+* [Apache Hive](https://github.com/apache/hive) ⭐ 6,038 | 🐛 143 | 🌐 Java | 📅 2026-11-20 - Facilitates reading, writing, and managing large datasets residing in distributed storage.
 * [Apache Kylin](https://github.com/apache/kylin) ⭐ 3,785 | 🐛 79 | 🌐 Java | 📅 2026-11-13 - An open source, distributed analytical data warehouse for big data.
 * [Amazon Redshift](https://aws.amazon.com/redshift/) - Accelerate your time to insights with fast, easy, and secure cloud data warehousing.
 * [Google BigQuery](https://cloud.google.com/bigquery) - Serverless, highly scalable, and cost-effective multicloud data warehouse.
@@ -171,60 +171,60 @@ A curated list of awesome DataOps tools.
 
 ### Columnar Database
 
-* [Scylla](https://github.com/scylladb/scylla) ⭐ 15,854 | 🐛 2,671 | 🌐 C++ | 📅 2026-11-19 - Designed to be compatible with Cassandra while achieving higher throughputs and lower latencies.
-* [Apache Druid](https://github.com/apache/druid) ⭐ 14,097 | 🐛 756 | 🌐 Java | 📅 2026-11-19 - Designed to quickly ingest massive quantities of event data, and provide low-latency queries.
-* [Apache Cassandra](https://github.com/apache/cassandra) ⭐ 10,162 | 🐛 593 | 🌐 Java | 📅 2026-11-19 - Open source column based DBMS designed to handle large amounts of data.
-* [Apache HBase](https://github.com/apache/hbase) ⭐ 5,570 | 🐛 439 | 🌐 Java | 📅 2026-11-19 - An open-source, distributed, versioned, column-oriented store.
+* [Scylla](https://github.com/scylladb/scylla) ⭐ 15,853 | 🐛 2,643 | 🌐 C++ | 📅 2026-11-20 - Designed to be compatible with Cassandra while achieving higher throughputs and lower latencies.
+* [Apache Druid](https://github.com/apache/druid) ⭐ 14,097 | 🐛 751 | 🌐 Java | 📅 2026-11-20 - Designed to quickly ingest massive quantities of event data, and provide low-latency queries.
+* [Apache Cassandra](https://github.com/apache/cassandra) ⭐ 10,161 | 🐛 589 | 🌐 Java | 📅 2026-11-20 - Open source column based DBMS designed to handle large amounts of data.
+* [Apache HBase](https://github.com/apache/hbase) ⭐ 5,571 | 🐛 432 | 🌐 Java | 📅 2026-11-20 - An open-source, distributed, versioned, column-oriented store.
 
 ### Document-Oriented Database
 
-* [Elasticsearch](https://github.com/elastic/elasticsearch) ⭐ 78,677 | 🐛 6,603 | 🌐 Java | 📅 2026-11-19 - A distributed document oriented database with a RESTful search engine.
-* [MongoDB](https://github.com/mongodb/mongo) ⭐ 28,698 | 🐛 46 | 🌐 C++ | 📅 2026-11-19 - A cross-platform document database that uses JSON-like documents with optional schemas.
-* [RethinkDB](https://github.com/rethinkdb/rethinkdb) ⭐ 27,012 | 🐛 1,336 | 🌐 C++ | 📅 2026-11-16 - The first open-source scalable database built for realtime applications.
-* [Apache CouchDB](https://github.com/apache/couchdb) ⭐ 7,015 | 🐛 373 | 🌐 Erlang | 📅 2026-11-19 - An open-source document-oriented NoSQL database, implemented in Erlang.
+* [Elasticsearch](https://github.com/elastic/elasticsearch) ⭐ 78,685 | 🐛 6,671 | 🌐 Java | 📅 2026-11-20 - A distributed document oriented database with a RESTful search engine.
+* [MongoDB](https://github.com/mongodb/mongo) ⭐ 28,701 | 🐛 46 | 🌐 C++ | 📅 2026-11-20 - A cross-platform document database that uses JSON-like documents with optional schemas.
+* [RethinkDB](https://github.com/rethinkdb/rethinkdb) ⭐ 27,013 | 🐛 1,336 | 🌐 C++ | 📅 2026-11-16 - The first open-source scalable database built for realtime applications.
+* [Apache CouchDB](https://github.com/apache/couchdb) ⭐ 7,015 | 🐛 374 | 🌐 Erlang | 📅 2026-11-20 - An open-source document-oriented NoSQL database, implemented in Erlang.
 
 ### Graph Database
 
-* [Neo4j](https://github.com/neo4j/neo4j) ⭐ 17,468 | 🐛 255 | 🌐 Java | 📅 2026-11-06 - A high performance graph store with all the features expected of a mature and robust database.
-* [ArangoDB](https://github.com/arangodb/arangodb) ⭐ 14,300 | 🐛 824 | 🌐 C++ | 📅 2026-11-19 - A scalable open-source multi-model database natively supporting graph, document and search.
+* [Neo4j](https://github.com/neo4j/neo4j) ⭐ 17,473 | 🐛 256 | 🌐 Java | 📅 2026-11-06 - A high performance graph store with all the features expected of a mature and robust database.
+* [ArangoDB](https://github.com/arangodb/arangodb) ⭐ 14,300 | 🐛 826 | 🌐 C++ | 📅 2026-11-20 - A scalable open-source multi-model database natively supporting graph, document and search.
 * [JanusGraph](https://github.com/JanusGraph/janusgraph) ⭐ 5,867 | 🐛 586 | 🌐 Java | 📅 2026-10-28 - Manage large graphs with billions of data distributed across a multi-machine cluster.
-* [Titan](https://github.com/thinkaurelius/titan) ⭐ 5,221 | 🐛 181 | 🌐 Java | 📅 2022-10-19 - A highly scalable graph database optimized for storing and querying large graphs.
-* [Age](https://github.com/apache/age) ⭐ 4,953 | 🐛 269 | 🌐 C | 📅 2026-11-04 - A multi-model database that supports both graph and relational data models.
-* [Memgraph](https://github.com/memgraph/memgraph) ⭐ 4,664 | 🐛 977 | 🌐 C++ | 📅 2026-11-19 - An open source graph database, built for real-time streaming data, compatible with Neo4j.
+* [Titan](https://github.com/thinkaurelius/titan) ⭐ 5,222 | 🐛 181 | 🌐 Java | 📅 2022-10-19 - A highly scalable graph database optimized for storing and querying large graphs.
+* [Age](https://github.com/apache/age) ⭐ 4,954 | 🐛 269 | 🌐 C | 📅 2026-11-04 - A multi-model database that supports both graph and relational data models.
+* [Memgraph](https://github.com/memgraph/memgraph) ⭐ 4,667 | 🐛 976 | 🌐 C++ | 📅 2026-11-20 - An open source graph database, built for real-time streaming data, compatible with Neo4j.
 
 ### Key-Value Database
 
-* [Redis](https://github.com/redis/redis) ⭐ 77,566 | 🐛 3,134 | 🌐 C | 📅 2026-11-19 - An in-memory key-value database that persists on disk.
-* [etcd](https://github.com/etcd-io/etcd) ⭐ 52,641 | 🐛 468 | 🌐 Go | 📅 2026-11-19 - Distributed reliable key-value store for the most critical data of a distributed system.
-* [Dragonfly](https://github.com/dragonflydb/dragonfly) ⭐ 31,891 | 🐛 217 | 🌐 C++ | 📅 2026-11-19 - A modern in-memory datastore, fully compatible with Redis and Memcached APIs.
-* [Memcached](https://github.com/memcached/memcached) ⭐ 14,306 | 🐛 139 | 🌐 C | 📅 2026-09-11 - A high performance multithreaded event-based key/value cache store.
+* [Redis](https://github.com/redis/redis) ⭐ 77,577 | 🐛 3,139 | 🌐 C | 📅 2026-11-19 - An in-memory key-value database that persists on disk.
+* [etcd](https://github.com/etcd-io/etcd) ⭐ 52,645 | 🐛 474 | 🌐 Go | 📅 2026-11-20 - Distributed reliable key-value store for the most critical data of a distributed system.
+* [Dragonfly](https://github.com/dragonflydb/dragonfly) ⭐ 31,895 | 🐛 213 | 🌐 C++ | 📅 2026-11-20 - A modern in-memory datastore, fully compatible with Redis and Memcached APIs.
+* [Memcached](https://github.com/memcached/memcached) ⭐ 14,308 | 🐛 139 | 🌐 C | 📅 2026-09-11 - A high performance multithreaded event-based key/value cache store.
 * [EVCache](https://github.com/Netflix/EVCache) ⭐ 2,226 | 🐛 25 | 🌐 Java | 📅 2026-11-17 - A distributed in-memory data store for the cloud.
-* [Apache Accumulo](https://github.com/apache/accumulo) ⭐ 1,183 | 🐛 342 | 🌐 Java | 📅 2026-11-19 - A sorted, distributed key-value store that provides robust and scalable data storage.
+* [Apache Accumulo](https://github.com/apache/accumulo) ⭐ 1,184 | 🐛 342 | 🌐 Java | 📅 2026-11-19 - A sorted, distributed key-value store that provides robust and scalable data storage.
 * [DynamoDB](https://aws.amazon.com/dynamodb/) - Fast, flexible NoSQL database service for single-digit millisecond performance at any scale.
 
 ### Relational Database
 
-* [CockroachDB](https://github.com/cockroachdb/cockroach) ⭐ 32,633 | 🐛 8,030 | 🌐 Go | 📅 2026-11-18 - A distributed database designed to build, scale, and manage data-intensive apps.
-* [PostgreSQL](https://github.com/postgres/postgres) ⭐ 22,887 | 🐛 0 | 🌐 C | 📅 2026-11-19 - An advanced RDBMS that supports an extended subset of the SQL standard.
-* [RQLite](https://github.com/rqlite/rqlite) ⭐ 17,961 | 🐛 69 | 🌐 Go | 📅 2026-11-19 - A lightweight, distributed relational database, which uses SQLite as its storage engine.
-* [MySQL](https://github.com/mysql/mysql-server) ⭐ 12,521 | 🐛 140 | 🌐 C++ | 📅 2026-11-17 - One of the most popular open source transactional databases.
-* [SQLite](https://github.com/sqlite/sqlite) ⭐ 11,071 | 🐛 26 | 🌐 C | 📅 2026-11-19 - A popular choice as embedded database software for local/client storage.
-* [MariaDB](https://github.com/MariaDB/server) ⭐ 8,633 | 🐛 616 | 🌐 C++ | 📅 2026-11-19 - A replacement of MySQL with more features, new storage engines and better performance.
-* [Crate](https://github.com/crate/crate) ⭐ 4,456 | 🐛 324 | 🌐 Java | 📅 2026-11-19 - A distributed SQL database that makes it simple to store and analyze massive amounts of data.
+* [CockroachDB](https://github.com/cockroachdb/cockroach) ⭐ 32,639 | 🐛 8,022 | 🌐 Go | 📅 2026-11-18 - A distributed database designed to build, scale, and manage data-intensive apps.
+* [PostgreSQL](https://github.com/postgres/postgres) ⭐ 22,896 | 🐛 0 | 🌐 C | 📅 2026-11-20 - An advanced RDBMS that supports an extended subset of the SQL standard.
+* [RQLite](https://github.com/rqlite/rqlite) ⭐ 17,964 | 🐛 69 | 🌐 Go | 📅 2026-11-19 - A lightweight, distributed relational database, which uses SQLite as its storage engine.
+* [MySQL](https://github.com/mysql/mysql-server) ⭐ 12,523 | 🐛 142 | 🌐 C++ | 📅 2026-11-20 - One of the most popular open source transactional databases.
+* [SQLite](https://github.com/sqlite/sqlite) ⭐ 11,082 | 🐛 26 | 🌐 C | 📅 2026-11-20 - A popular choice as embedded database software for local/client storage.
+* [MariaDB](https://github.com/MariaDB/server) ⭐ 8,640 | 🐛 623 | 🌐 C++ | 📅 2026-11-20 - A replacement of MySQL with more features, new storage engines and better performance.
+* [Crate](https://github.com/crate/crate) ⭐ 4,456 | 🐛 326 | 🌐 Java | 📅 2026-11-20 - A distributed SQL database that makes it simple to store and analyze massive amounts of data.
 
 ### Time Series Database
 
-* [InfluxDB](https://github.com/influxdata/influxdb) ⭐ 31,829 | 🐛 2,179 | 🌐 Rust | 📅 2026-11-19 - Scalable datastore for metrics, events, and real-time analytics.
-* [TimescaleDB](https://github.com/timescale/timescaledb) ⭐ 23,881 | 🐛 480 | 🌐 C | 📅 2026-11-19 - Open-source time-series SQL database optimized for fast ingest and complex queries.
-* [QuestDB](https://github.com/questdb/questdb) ⭐ 17,540 | 🐛 1,571 | 🌐 Java | 📅 2026-11-19 - An open source SQL database designed to process time series data, faster.
+* [InfluxDB](https://github.com/influxdata/influxdb) ⭐ 31,830 | 🐛 2,179 | 🌐 Rust | 📅 2026-11-20 - Scalable datastore for metrics, events, and real-time analytics.
+* [TimescaleDB](https://github.com/timescale/timescaledb) ⭐ 23,883 | 🐛 480 | 🌐 C | 📅 2026-11-20 - Open-source time-series SQL database optimized for fast ingest and complex queries.
+* [QuestDB](https://github.com/questdb/questdb) ⭐ 17,543 | 🐛 1,580 | 🌐 Java | 📅 2026-11-20 - An open source SQL database designed to process time series data, faster.
 * [Atlas](https://github.com/Netflix/Atlas) ⭐ 3,588 | 🐛 12 | 🌐 Scala | 📅 2026-11-15 - An in-memory dimensional time series database.
 * [Akumuli](https://github.com/akumuli/Akumuli) ⚠️ Archived - Can be used to capture, store and process time-series data in real-time.
 
 ### Vector Database
 
-* [Milvus](https://github.com/milvus-io/milvus/) ⭐ 46,697 | 🐛 1,396 | 🌐 Go | 📅 2026-11-19 - An open source embedding vector similarity search engine powered by Faiss, NMSLIB and Annoy.
-* [Qdrant](https://github.com/qdrant/qdrant) ⭐ 35,638 | 🐛 825 | 🌐 Rust | 📅 2026-11-19 - An open source vector similarity search engine with extended filtering support.
-* [Infino](https://github.com/infino-ai/infino) ⭐ 157 | 🐛 138 | 🌐 Rust | 📅 2026-11-19 - Embedded vector and full-text search with SQL over Parquet.
+* [Milvus](https://github.com/milvus-io/milvus/) ⭐ 46,708 | 🐛 1,412 | 🌐 Go | 📅 2026-11-20 - An open source embedding vector similarity search engine powered by Faiss, NMSLIB and Annoy.
+* [Qdrant](https://github.com/qdrant/qdrant) ⭐ 35,650 | 🐛 824 | 🌐 Rust | 📅 2026-11-20 - An open source vector similarity search engine with extended filtering support.
+* [Infino](https://github.com/infino-ai/infino) ⭐ 157 | 🐛 137 | 🌐 Rust | 📅 2026-11-20 - Embedded vector and full-text search with SQL over Parquet.
 * [Pinecone](https://www.pinecone.io) - Managed and distributed vector similarity search used with a lightweight SDK.
 
 ## File System
@@ -232,10 +232,10 @@ A curated list of awesome DataOps tools.
 *Tools related to file system and data storage.*
 
 * [MinIO](https://github.com/minio/minio) ⚠️ Archived - High Performance, Kubernetes Native Object Storage compatible with Amazon S3 API.
-* [Alluxio](https://github.com/Alluxio/alluxio) ⭐ 7,263 | 🐛 1,049 | 🌐 Java | 📅 2026-09-01 - A virtual distributed storage system.
-* [LakeFS](https://github.com/treeverse/lakeFS) ⭐ 5,585 | 🐛 447 | 🌐 Go | 📅 2026-11-19 - Open source tool that transforms your object storage into a Git-like repository.
-* [GlusterFS](https://github.com/gluster/glusterfs) ⭐ 5,270 | 🐛 337 | 🌐 C | 📅 2026-11-13 - A software defined distributed storage that can scale to several petabytes.
-* [Swift](https://github.com/openstack/swift) ⭐ 2,804 | 🐛 0 | 🌐 Python | 📅 2026-11-18 - A distributed object storage system designed to scale from a single machine to thousands of servers.
+* [Alluxio](https://github.com/Alluxio/alluxio) ⭐ 7,264 | 🐛 1,049 | 🌐 Java | 📅 2026-09-01 - A virtual distributed storage system.
+* [LakeFS](https://github.com/treeverse/lakeFS) ⭐ 5,589 | 🐛 449 | 🌐 Go | 📅 2026-11-19 - Open source tool that transforms your object storage into a Git-like repository.
+* [GlusterFS](https://github.com/gluster/glusterfs) ⭐ 5,269 | 🐛 338 | 🌐 C | 📅 2026-11-13 - A software defined distributed storage that can scale to several petabytes.
+* [Swift](https://github.com/openstack/swift) ⭐ 2,804 | 🐛 0 | 🌐 Python | 📅 2026-11-20 - A distributed object storage system designed to scale from a single machine to thousands of servers.
 * [LizardFS](https://github.com/lizardfs/lizardfs) ⭐ 994 | 🐛 324 | 🌐 C++ | 📅 2024-08-11 - A highly reliable, scalable and efficient distributed file system.
 * [SeaweedFS](https://github.com/chrislusf/seaweedfs) ⭐ 45 | 🐛 1 | 🌐 Go | 📅 2026-11-11 - A fast distributed storage system for blobs, objects, files, and data lake.
 * [Amazon Simple Storage Service (S3)](https://aws.amazon.com/s3/) - Object storage built to retrieve any amount of data from anywhere.
@@ -246,10 +246,10 @@ A curated list of awesome DataOps tools.
 
 *Tools used for logging and monitoring data workflows.*
 
-* [Grafana](https://github.com/grafana/grafana) ⭐ 78,003 | 🐛 3,322 | 🌐 TypeScript | 📅 2026-11-19 - Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, InfluxDB and more.
-* [Prometheus](https://github.com/prometheus/prometheus) ⭐ 67,724 | 🐛 1,124 | 🌐 Go | 📅 2026-11-19 - A monitoring system and time series database.
-* [Loki](https://github.com/grafana/loki) ⭐ 29,200 | 🐛 1,076 | 🌐 Go | 📅 2026-11-19 - A horizontally-scalable, highly-available, multi-tenant log aggregation system inspired by Prometheus.
-* [Whylogs](https://github.com/whylabs/whylogs) ⭐ 2,836 | 🐛 4 | 🌐 Jupyter Notebook | 📅 2025-01-10 - A tool for creating data logs, enabling monitoring for data drift and data quality issues.
+* [Grafana](https://github.com/grafana/grafana) ⭐ 78,016 | 🐛 3,289 | 🌐 TypeScript | 📅 2026-11-20 - Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, InfluxDB and more.
+* [Prometheus](https://github.com/prometheus/prometheus) ⭐ 67,736 | 🐛 1,134 | 🌐 Go | 📅 2026-11-20 - A monitoring system and time series database.
+* [Loki](https://github.com/grafana/loki) ⭐ 29,208 | 🐛 1,088 | 🌐 Go | 📅 2026-11-20 - A horizontally-scalable, highly-available, multi-tenant log aggregation system inspired by Prometheus.
+* [Whylogs](https://github.com/whylabs/whylogs) ⭐ 2,837 | 🐛 4 | 🌐 Jupyter Notebook | 📅 2025-01-10 - A tool for creating data logs, enabling monitoring for data drift and data quality issues.
 
 ## Metadata Service
 
@@ -269,10 +269,10 @@ A curated list of awesome DataOps tools.
 
 *Tools for parallel processing SQL statements.*
 
-* [Presto](https://github.com/prestodb/presto) ⭐ 16,778 | 🐛 3,020 | 🌐 Java | 📅 2026-11-19 - A distributed SQL query engine for big data.
-* [Trino](https://github.com/trinodb/trino) ⭐ 13,528 | 🐛 2,770 | 🌐 Java | 📅 2026-11-19 - A fast distributed SQL query engine for big data analytics.
+* [Presto](https://github.com/prestodb/presto) ⭐ 16,778 | 🐛 3,020 | 🌐 Java | 📅 2026-11-20 - A distributed SQL query engine for big data.
+* [Trino](https://github.com/trinodb/trino) ⭐ 13,530 | 🐛 2,779 | 🌐 Java | 📅 2026-11-20 - A fast distributed SQL query engine for big data analytics.
 * [Apache Drill](https://github.com/apache/drill) ⭐ 2,026 | 🐛 129 | 🌐 Java | 📅 2026-11-12 - Schema-free SQL Query Engine for Hadoop, NoSQL and Cloud Storage.
-* [Apache Impala](https://github.com/apache/impala) ⭐ 1,295 | 🐛 9 | 🌐 C++ | 📅 2026-11-19 - Lightning-fast, distributed SQL queries for petabytes of data.
+* [Apache Impala](https://github.com/apache/impala) ⭐ 1,295 | 🐛 9 | 🌐 C++ | 📅 2026-11-20 - Lightning-fast, distributed SQL queries for petabytes of data.
 * [Dremio](https://www.dremio.com/) - Power high-performing BI dashboards and interactive analytics directly on data lake.
 
 ***
@@ -294,8 +294,8 @@ Where to discover new tools and discuss about existing ones.
 
 ## Other Lists
 
-* [Awesome Data Engineering](https://github.com/igorbarinov/awesome-data-engineering) ⭐ 9,277 | 🐛 22 | 📅 2026-11-10
-* [Awesome MLOps](https://github.com/kelvins/awesome-mlops) ⭐ 5,322 | 🐛 129 | 🌐 Python | 📅 2026-10-30
+* [Awesome Data Engineering](https://github.com/igorbarinov/awesome-data-engineering) ⭐ 9,280 | 🐛 23 | 📅 2026-11-10
+* [Awesome MLOps](https://github.com/kelvins/awesome-mlops) ⭐ 5,322 | 🐛 131 | 🌐 Python | 📅 2026-10-30
 * [DataOps Resource](https://github.com/chen1649chenli/dataOpsResource) ⭐ 24 | 🐛 2 | 📅 2020-08-14
 
 ## Slack
@@ -311,4 +311,4 @@ All contributions are welcome! Please take a look at the [contribution guideline
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-20._
